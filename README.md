@@ -10,9 +10,8 @@
 </p>
 
 <!--Porfolio-->
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospenaforte&show_icons=true&theme=synthwave)
-<\p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospenaforte&show_icons=true&theme=synthwave)
+
   
 <!--Social-->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-eduardo-freitas-43761522a/)
