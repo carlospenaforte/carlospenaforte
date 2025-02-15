@@ -29,20 +29,20 @@
 ### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css" />
   </a>
 </p>
 
 ### Tech
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,aws,bootstrap,fastapi,git,github,unity,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=dotnet,django,azure,aws,bootstrap,fastapi,git,github,unity,pycharm,vscode,visualstudio" />
   </a>
 </p>
 
 ### DB
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb" />
   </a>
 </p>
