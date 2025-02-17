@@ -6,7 +6,7 @@
 
 <!--About me-->
 <p>
-  Hi👋, My name is Carlos. I'm from Brazil, and I'm a really passionate programming enthusiast!
+  Hi = !Bye👋
 </p>
 
 <!--Porfolio-->
