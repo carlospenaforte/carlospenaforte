@@ -6,7 +6,7 @@
 
 <!--About me-->
 <p>
-  Hi = !Bye👋
+  !Bye👋
 </p>
 
 <!--Porfolio-->
