@@ -1,13 +1,8 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome!🫠🐈‍⬛</h1></summary>
+    <summary><h1 style="display: inline-block">Welcome = !Bye 👋🫠🐈‍⬛</h1></summary>
 </div>
-
-<!--About me-->
-<p>
-  !Bye👋
-</p>
 
 <!--Porfolio-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospenaforte&show_icons=true&theme=synthwave)
