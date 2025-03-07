@@ -24,10 +24,17 @@
   </a>
 </p>
 
+### Engines
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,pycharm,vscode,visualstudio" />
+  </a>
+</p>
+
 ### Tech
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,django,azure,aws,bootstrap,fastapi,git,github,unity,blender,pycharm,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=dotnet,django,azure,aws,bootstrap,fastapi,git,github" />
   </a>
 </p>
 
