@@ -33,7 +33,7 @@
 ### Frameworks & Cloud
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,django,azure,aws,bootstrap,fastapi,git,github" />
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,django,azure,aws,bootstrap,fastapi,git,github" />
   </a>
 </p>
 
