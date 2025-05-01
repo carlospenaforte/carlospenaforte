@@ -11,6 +11,7 @@
 # My Projects:
 - CW GAMES ( Private )
 - Law Firm - "Araujo" ( Private )
+- Twitch Points Ranking ( Private )
 
 
 <!--Skills-->
@@ -30,7 +31,7 @@
   </a>
 </p>
 
-### Frameworks & Cloud
+### Frameworks
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,angular,django,bootstrap,fastapi" />
