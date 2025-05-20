@@ -11,8 +11,6 @@
 # My Projects:
 - CW GAMES ( Private )
 - Law Firm - "Araujo" ( Private )
-- Twitch Points Ranking ( Private )
-
 
 <!--Skills-->
 # Skills 🕹️
