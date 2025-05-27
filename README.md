@@ -11,6 +11,7 @@
 # My Projects:
 - CW GAMES ( Private )
 - Law Firm - "Araujo" ( Private )
+- Bank Application ( Private )
 
 <!--Skills-->
 # Skills 🕹️
