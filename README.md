@@ -9,9 +9,9 @@
 
 <!--Projects-->
 # My Projects:
-- CW GAMES ( Private )
-- Law Firm - "Araujo" ( Private )
-- Bank Application ( Private )
+- CW GAMES 
+- Law Firm - "Araujo" 
+- Bank Application 
 
 <!--Skills-->
 # Skills 🕹️
