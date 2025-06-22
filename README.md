@@ -11,7 +11,7 @@
 # My Projects:
 - CW GAMES 
 - Law Firm - "Araujo" 
-- Bank Application 
+- Game Studios Maps
 
 <!--Skills-->
 # Skills 🕹️
